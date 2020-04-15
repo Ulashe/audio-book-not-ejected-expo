@@ -8,7 +8,7 @@ import ProfileStackScreen from "./profile-stack";
 
 const Tab = createBottomTabNavigator();
 
-export default function Main() {
+export default function BottomTabNavigator() {
   return (
     <Tab.Navigator>
       <Tab.Screen name="HomeStack" component={HomeStackScreen} />
