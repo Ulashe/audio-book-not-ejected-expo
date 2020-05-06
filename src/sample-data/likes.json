@@ -1,0 +1,251 @@
+{
+  "books": [
+    {
+      "id": "53",
+      "title": "Bleak House",
+      "img_url": "https://ia800707.us.archive.org/19/items/LibrivoxCdCoverArt/Bleak_House_1003.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Literature"
+      ],
+      "description": "<p>Bleak House is the ninth novel by Charles Dickens, published in 20 monthly parts between March 1852 and September 1853. It is widely held to be one of Dickens' finest and most complete novels, containing one of the most vast, complex and engaging arrays of minor characters and sub-plots in his entire canon. Dickens tells all of these both through the narrative of the novel's heroine, Esther Summerson, and as an omniscient narrator. Memorable characters include the menacing lawyer Tulkinghorn, the friendly but depressive John Jarndyce and the childish Harold Skimpole. The plot concerns a long-running legal dispute (Jarndyce and Jarndyce) which has far-reaching consequences for all involved. (Summary from Wikipedia)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/1023",
+      "language": "English",
+      "copyright_year": "1853",
+      "num_sections": "67",
+      "url_rss": "https://librivox.org/rss/53",
+      "url_zip_file": "http://www.archive.org/download/bleak_house_cl_librivox/bleak_house_cl_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Bleak_House",
+      "url_librivox": "https://librivox.org/bleak-house-by-charles-dickens/",
+      "url_other": null,
+      "totaltime": "43:30:19",
+      "totaltimesecs": 156619,
+      "authors": [
+        {
+          "id": "91",
+          "first_name": "Charles",
+          "last_name": "Dickens",
+          "dob": "1812",
+          "dod": "1870"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "title": "This Side of Paradise",
+      "img_url": "https://ia802605.us.archive.org/20/items/LibrivoxCdCoverArt5/this_side_of_paradise_1006.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Literature"
+      ],
+      "description": "<p>This Side of Paradise is the debut novel of F. Scott Fitzgerald. Published in 1920, and taking its title from a line of the Rupert Brooke poem Tiare Tahiti, the book examines the lives and morality of post-World War I youth. Its protagonist, Amory Blaine, is a wealthy and attractive Princeton University student who dabbles in literature and has a series of romances that eventually lead to his disillusionment. In his later novels, Fitzgerald would further develop the book's theme of love warped by greed and status-seeking. (Summary from wikipedia)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/805",
+      "language": "English",
+      "copyright_year": "1920",
+      "num_sections": "22",
+      "url_rss": "https://librivox.org/rss/55",
+      "url_zip_file": "http://www.archive.org/download/this_side_paradise_librivox/this_side_paradise_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/This_Side_Of_Paradise",
+      "url_librivox": "https://librivox.org/this-side-of-paradise-by-f-scott-fitzgerald",
+      "url_other": null,
+      "totaltime": "8:56:24",
+      "totaltimesecs": 32184,
+      "authors": [
+        {
+          "id": "148",
+          "first_name": "F. Scott",
+          "last_name": "Fitzgerald",
+          "dob": "1896",
+          "dod": "1940"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "title": "Secret Garden",
+      "img_url": "https://ia802303.us.archive.org/29/items/secret_garden_librivox/Secret_Garden_1003.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Childrens",
+        "Young Adult"
+      ],
+      "description": "Mary Lennox is a spoiled, middle-class, self-centred child who has been recently orphaned. She is accepted into the quiet and remote country house of an uncle, who has almost completely withdrawn into himself after the death of his wife. Mary gradually becomes drawn into the hidden side of the house: why does she hear the crying of a unseen child? Why is there an overgrown, walled garden, its door long locked? (Summary by Peter)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/113",
+      "language": "English",
+      "copyright_year": "1909",
+      "num_sections": "27",
+      "url_rss": "https://librivox.org/rss/56",
+      "url_zip_file": "http://www.archive.org/download/secret_garden_librivox/secret_garden_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/The_Secret_Garden",
+      "url_librivox": "https://librivox.org/the-secret-garden-by-frances-hodgson-burnett/",
+      "url_other": null,
+      "totaltime": "9:08:25",
+      "totaltimesecs": 32905,
+      "authors": [
+        {
+          "id": "150",
+          "first_name": "Frances Hodgson",
+          "last_name": "Burnett",
+          "dob": "1849",
+          "dod": "1924"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "title": "Odyssey",
+      "img_url": "https://ia800302.us.archive.org/16/items/librivox_cd_covers/odyssey.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Poetry",
+        "Fantasy",
+        "Fantasy, Mythology"
+      ],
+      "description": "<p>The Odyssey is one of the two major ancient Greek epic poems (the other being the Iliad), attributed to the poet Homer. The poem is commonly dated to between 800 and 600 BC. The poem is, in part, a sequel to the Iliad, and concerns the events that befall the Greek hero Odysseus in his long journey back to his native land Ithaca after the fall of Troy.</p>\n\nIt takes Odysseus ten years to return to his native land of Ithaca after ten years of war; during his 20-year absence, his son Telemachus and his wife Penelope must deal with a group of unruly suitors who have moved into Odysseus' home to compete for Penelope's hand in marriage, since most have assumed that Odysseus has died.</p>\n\nThe poem is a fundamental text in the Western canon and continues to be read in both Homeric Greek and translations around the world. (Summary from Wikipedia</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/1727",
+      "language": "English",
+      "copyright_year": "1900",
+      "num_sections": "24",
+      "url_rss": "https://librivox.org/rss/65",
+      "url_zip_file": "http://www.archive.org/download/odyssey_butler_librivox/odyssey_butler_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Odyssey",
+      "url_librivox": "https://librivox.org/the-odyssey-by-homer/",
+      "url_other": null,
+      "totaltime": "11:18:25",
+      "totaltimesecs": 40705,
+      "authors": [
+        {
+          "id": "9859",
+          "first_name": "Samuel",
+          "last_name": "Butler",
+          "dob": "1835",
+          "dod": "1902"
+        },
+        {
+          "id": "765",
+          "first_name": "",
+          "last_name": "Homer",
+          "dob": "c. 8th cen",
+          "dod": "c. 8th cen"
+        }
+      ]
+    },
+    {
+      "id": "71",
+      "title": "Canterville Ghost",
+      "img_url": "https://ia802605.us.archive.org/13/items/canterville_ghost_librivox/Canterville_Ghost_1106.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Short Stories",
+        "Fantasy",
+        "Horror",
+        "Humor"
+      ],
+      "description": "<p>The American Minister and his family have bought the English stately home Canterville Chase, complete with the ghost of Sir Simon de Canterville - blood-stains, clanking chains and all. But these modern Americans will have no truck with ghostly goings-on, and set out to beat the spectre at his own game. (Summary by David Barnes)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/14522",
+      "language": "English",
+      "copyright_year": "1906",
+      "num_sections": "7",
+      "url_rss": "https://librivox.org/rss/71",
+      "url_zip_file": "http://www.archive.org/download/canterville_ghost_librivox/canterville_ghost_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/The_Canterville_Ghost",
+      "url_librivox": "https://librivox.org/the-canterville-ghost-by-oscar-wilde/",
+      "url_other": null,
+      "totaltime": "1:23:08",
+      "totaltimesecs": 4988,
+      "authors": [
+        {
+          "id": "114",
+          "first_name": "Oscar",
+          "last_name": "Wilde",
+          "dob": "1854",
+          "dod": "1900"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "title": "Mother Goose in Prose",
+      "img_url": "https://ia802608.us.archive.org/7/items/mother_goose_prose_librivox/Mother_Goose_Prose_1107.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Fiction",
+        "Classics",
+        "Fantasy",
+        "Childrens",
+        "Short Stories"
+      ],
+      "description": "Whether Mother Goose was a real person or a myth, the songs that are attributed to her name are what we remember from our childhood. Some of these nursery rhymes are complete tales in themselves.  There are others which are mere suggestions, leaving the imagination to weave in the details of the story. Many of the rhymes’ origins even at the time of this books writing, could be traced back decades or centuries. L Frank Baum in 1897, while living in Chicago, collected the rhymes and created short stories around them which add context and understanding for children who are drawn to the familiar melodies. (Summary by Westwinds12)<p>",
+      "url_text_source": "http://www.gutenberg.org/etext/5312",
+      "language": "English",
+      "copyright_year": "1897",
+      "num_sections": "23",
+      "url_rss": "https://librivox.org/rss/74",
+      "url_zip_file": "http://www.archive.org/download/mother_goose_prose_librivox/mother_goose_prose_librivox_64kb_mp3.zip",
+      "url_project": "https://en.wikipedia.org/wiki/Mother_Goose_in_Prose",
+      "url_librivox": "https://librivox.org/mother-goose-in-prose-by-l-frank-baum/",
+      "url_other": null,
+      "totaltime": "4:46:24",
+      "totaltimesecs": 17184,
+      "authors": [
+        {
+          "id": "406",
+          "first_name": "L. Frank",
+          "last_name": "Baum",
+          "dob": "1856",
+          "dod": "1919"
+        }
+      ]
+    },
+    {
+      "id": "76",
+      "title": "Truth About Jesus.  Is He a Myth?",
+      "img_url": "https://ia600501.us.archive.org/15/items/LibrivoxCdCoverArt10/Truth_Jesus_Myth_1108.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Religion",
+        "Nonfiction",
+        "Spirituality",
+        "Philosophy, Skepticism"
+      ],
+      "description": "The following work offers in book form the series of studies on the question of the historicity of Jesus, presented from time to time before the Independent Religious Society in Orchestra Hall, Chicago, 1909. No effort has been made to change the manner of the spoken, into the more regular form of the written, word. (Summary by M.M. Mangasarian (1859-1943) and Joanne Pauwels)<p>",
+      "url_text_source": "http://www.gutenberg.org/etext/6107",
+      "language": "English",
+      "copyright_year": "1909",
+      "num_sections": "18",
+      "url_rss": "https://librivox.org/rss/76",
+      "url_zip_file": "http://www.archive.org/download/truth_about_jesus_librivox/truth_about_jesus_librivox_64kb_mp3.zip",
+      "url_project": "",
+      "url_librivox": "https://librivox.org/the-truth-about-jesus-is-he-a-myth-by-m-m-mangasarian/",
+      "url_other": null,
+      "totaltime": "5:40:15",
+      "totaltimesecs": 20415,
+      "authors": [
+        {
+          "id": "4100",
+          "first_name": " M. M.",
+          "last_name": "Mangasarian",
+          "dob": "1859",
+          "dod": "1943"
+        }
+      ]
+    },
+  ]
+}

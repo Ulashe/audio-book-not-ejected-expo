@@ -1,0 +1,216 @@
+{
+  "books": [
+    {
+      "id": "53",
+      "title": "Bleak House",
+      "img_url": "https://ia800707.us.archive.org/19/items/LibrivoxCdCoverArt/Bleak_House_1003.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Literature"
+      ],
+      "description": "<p>Bleak House is the ninth novel by Charles Dickens, published in 20 monthly parts between March 1852 and September 1853. It is widely held to be one of Dickens' finest and most complete novels, containing one of the most vast, complex and engaging arrays of minor characters and sub-plots in his entire canon. Dickens tells all of these both through the narrative of the novel's heroine, Esther Summerson, and as an omniscient narrator. Memorable characters include the menacing lawyer Tulkinghorn, the friendly but depressive John Jarndyce and the childish Harold Skimpole. The plot concerns a long-running legal dispute (Jarndyce and Jarndyce) which has far-reaching consequences for all involved. (Summary from Wikipedia)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/1023",
+      "language": "English",
+      "copyright_year": "1853",
+      "num_sections": "67",
+      "url_rss": "https://librivox.org/rss/53",
+      "url_zip_file": "http://www.archive.org/download/bleak_house_cl_librivox/bleak_house_cl_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Bleak_House",
+      "url_librivox": "https://librivox.org/bleak-house-by-charles-dickens/",
+      "url_other": null,
+      "totaltime": "43:30:19",
+      "totaltimesecs": 156619,
+      "authors": [
+        {
+          "id": "91",
+          "first_name": "Charles",
+          "last_name": "Dickens",
+          "dob": "1812",
+          "dod": "1870"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "title": "Secret Garden",
+      "img_url": "https://ia802303.us.archive.org/29/items/secret_garden_librivox/Secret_Garden_1003.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Childrens",
+        "Young Adult"
+      ],
+      "description": "Mary Lennox is a spoiled, middle-class, self-centred child who has been recently orphaned. She is accepted into the quiet and remote country house of an uncle, who has almost completely withdrawn into himself after the death of his wife. Mary gradually becomes drawn into the hidden side of the house: why does she hear the crying of a unseen child? Why is there an overgrown, walled garden, its door long locked? (Summary by Peter)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/113",
+      "language": "English",
+      "copyright_year": "1909",
+      "num_sections": "27",
+      "url_rss": "https://librivox.org/rss/56",
+      "url_zip_file": "http://www.archive.org/download/secret_garden_librivox/secret_garden_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/The_Secret_Garden",
+      "url_librivox": "https://librivox.org/the-secret-garden-by-frances-hodgson-burnett/",
+      "url_other": null,
+      "totaltime": "9:08:25",
+      "totaltimesecs": 32905,
+      "authors": [
+        {
+          "id": "150",
+          "first_name": "Frances Hodgson",
+          "last_name": "Burnett",
+          "dob": "1849",
+          "dod": "1924"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "title": "Twenty Years After",
+      "img_url": "https://ia800302.us.archive.org/16/items/librivox_cd_covers/twenty_years_after.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Historical Fiction",
+        "Adventure",
+        "Cultural, France"
+      ],
+      "description": "Let's continue the D'Artagnan Romances that we've already started with The Three Musketeers. </p>",
+      "url_text_source": "http://www.gutenberg.org/etext/1259",
+      "language": "English",
+      "copyright_year": "1856",
+      "num_sections": "90",
+      "url_rss": "https://librivox.org/rss/57",
+      "url_zip_file": "http://www.archive.org/download/twentyyearsafter_0904_librivox/twentyyearsafter_0904_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Twenty_Years_After",
+      "url_librivox": "https://librivox.org/twenty-years-after-by-alexandre-dumas/",
+      "url_other": null,
+      "totaltime": "25:43:08",
+      "totaltimesecs": 92588,
+      "authors": [
+        {
+          "id": "431",
+          "first_name": "Alexandre",
+          "last_name": "Dumas",
+          "dob": "1802",
+          "dod": "1870"
+        }
+      ]
+    },
+    {
+      "id": "65",
+      "title": "Odyssey",
+      "img_url": "https://ia800302.us.archive.org/16/items/librivox_cd_covers/odyssey.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Poetry",
+        "Fantasy",
+        "Fantasy, Mythology"
+      ],
+      "description": "<p>The Odyssey is one of the two major ancient Greek epic poems (the other being the Iliad), attributed to the poet Homer. The poem is commonly dated to between 800 and 600 BC. The poem is, in part, a sequel to the Iliad, and concerns the events that befall the Greek hero Odysseus in his long journey back to his native land Ithaca after the fall of Troy.</p>\n\nIt takes Odysseus ten years to return to his native land of Ithaca after ten years of war; during his 20-year absence, his son Telemachus and his wife Penelope must deal with a group of unruly suitors who have moved into Odysseus' home to compete for Penelope's hand in marriage, since most have assumed that Odysseus has died.</p>\n\nThe poem is a fundamental text in the Western canon and continues to be read in both Homeric Greek and translations around the world. (Summary from Wikipedia</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/1727",
+      "language": "English",
+      "copyright_year": "1900",
+      "num_sections": "24",
+      "url_rss": "https://librivox.org/rss/65",
+      "url_zip_file": "http://www.archive.org/download/odyssey_butler_librivox/odyssey_butler_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Odyssey",
+      "url_librivox": "https://librivox.org/the-odyssey-by-homer/",
+      "url_other": null,
+      "totaltime": "11:18:25",
+      "totaltimesecs": 40705,
+      "authors": [
+        {
+          "id": "9859",
+          "first_name": "Samuel",
+          "last_name": "Butler",
+          "dob": "1835",
+          "dod": "1902"
+        },
+        {
+          "id": "765",
+          "first_name": "",
+          "last_name": "Homer",
+          "dob": "c. 8th cen",
+          "dod": "c. 8th cen"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "title": "Divine Comedy",
+      "img_url": "https://ia600201.us.archive.org/3/items/divine_comedy_librivox/The_Divine_Comedy_1005.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Poetry",
+        "Fiction",
+        "Literature"
+      ],
+      "description": "<p>The Divine Comedy (Italian: Commedia, later christened \"Divina\" by Giovanni Boccaccio), written by Dante Alighieri between 1308 and his death in 1321, is widely considered the central epic poem of Italian literature, the last great work of literature of the Middle Ages and the first great work of the Renaissance. A culmination of the medieval world-view of the afterlife, it establishes the Tuscan dialect in which it is written as the Italian standard, and is seen as one of the greatest works of world literature. - The Divine Comedy is composed of three canticas (or \"cantiche\") — Inferno (Hell), Purgatorio (Purgatory), and Paradiso (Paradise) — composed each of 33 cantos (or \"canti\"). The very first canto serves as an introduction to the poem and is generally not considered to be part of the first cantica, bringing the total number of cantos to 100. - The poet tells in the first person his travel through the three realms of the dead, lasting during the Easter Triduum in the spring of 1300. (Summary from Wikipedia)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/1004",
+      "language": "English",
+      "copyright_year": "1321",
+      "num_sections": "19",
+      "url_rss": "https://librivox.org/rss/67",
+      "url_zip_file": "http://www.archive.org/download/divine_comedy_librivox/divine_comedy_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Divine_Comedy",
+      "url_librivox": "https://librivox.org/the-divine-comedy-by-dante-alighieri/",
+      "url_other": null,
+      "totaltime": "12:23:25",
+      "totaltimesecs": 44605,
+      "authors": [
+        {
+          "id": "1189",
+          "first_name": "Dante",
+          "last_name": "Alighieri",
+          "dob": "1265",
+          "dod": "1321"
+        }
+      ]
+    },
+    {
+      "id": "75",
+      "title": "Uncle Tom's Cabin",
+      "img_url": "https://ia600301.us.archive.org/30/items/uncle_toms_cabin_librivox/Uncle_Toms_Cabin_1006.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Historical Fiction",
+        "Literature"
+      ],
+      "description": "<p>Among the most “banned” books in the United States, Uncle Tom’s Cabin; or, Life Among the Lowly is a novel by American author Harriet Beecher Stowe which treats slavery as a central theme. Stowe was a Connecticut-born teacher at the Hartford Female Academy and an active abolitionist. The novel is believed to have had a profound effect on the North’s view of slavery. In fact, when he met Harriet Beecher Stowe, President Lincoln is said to have commented, “So you’re the little lady whose book started the Civil War.” First published on March 20, 1852, the story focuses on the tale of Uncle Tom, a long-suffering black slave, the central character around whose life the other characters—both fellow slaves and slave owners—revolve. The novel depicts the harsh reality of slavery while also showing that Christian love and faith can overcome even something as evil as enslavement of fellow human beings. (summary by Wikipedia and John Greenman)</p>\n\n<p>Note From the Reader: \nThe listener is about to enter a world rich with diverse characters. In order to differentiate between the characters, the reader has given each, his/her own voice. As an adult male reader, however, the reader's representation of women and children will, necessarily be less than adequate. He asks for your indulgence.</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/203",
+      "language": "English",
+      "copyright_year": "1852",
+      "num_sections": "45",
+      "url_rss": "https://librivox.org/rss/75",
+      "url_zip_file": "http://www.archive.org/download/uncle_toms_cabin_librivox/uncle_toms_cabin_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Uncle_Tom's_Cabin",
+      "url_librivox": "https://librivox.org/uncle-toms-cabin-by-harriet-beecher-stowe/",
+      "url_other": null,
+      "totaltime": "18:06:33",
+      "totaltimesecs": 65193,
+      "authors": [
+        {
+          "id": "260",
+          "first_name": "Harriet Beecher",
+          "last_name": "Stowe",
+          "dob": "1811",
+          "dod": "1896"
+        }
+      ]
+    }
+  ]
+}

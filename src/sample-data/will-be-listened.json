@@ -1,0 +1,282 @@
+{
+  "books": [
+    {
+      "id": "53",
+      "title": "Bleak House",
+      "img_url": "https://ia800707.us.archive.org/19/items/LibrivoxCdCoverArt/Bleak_House_1003.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Literature"
+      ],
+      "description": "<p>Bleak House is the ninth novel by Charles Dickens, published in 20 monthly parts between March 1852 and September 1853. It is widely held to be one of Dickens' finest and most complete novels, containing one of the most vast, complex and engaging arrays of minor characters and sub-plots in his entire canon. Dickens tells all of these both through the narrative of the novel's heroine, Esther Summerson, and as an omniscient narrator. Memorable characters include the menacing lawyer Tulkinghorn, the friendly but depressive John Jarndyce and the childish Harold Skimpole. The plot concerns a long-running legal dispute (Jarndyce and Jarndyce) which has far-reaching consequences for all involved. (Summary from Wikipedia)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/1023",
+      "language": "English",
+      "copyright_year": "1853",
+      "num_sections": "67",
+      "url_rss": "https://librivox.org/rss/53",
+      "url_zip_file": "http://www.archive.org/download/bleak_house_cl_librivox/bleak_house_cl_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Bleak_House",
+      "url_librivox": "https://librivox.org/bleak-house-by-charles-dickens/",
+      "url_other": null,
+      "totaltime": "43:30:19",
+      "totaltimesecs": 156619,
+      "authors": [
+        {
+          "id": "91",
+          "first_name": "Charles",
+          "last_name": "Dickens",
+          "dob": "1812",
+          "dod": "1870"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "title": "Penguin Island",
+      "img_url": "https://ia802609.us.archive.org/31/items/LibrivoxCdCoverArt4/Penguin_Island_1004.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Fiction",
+        "Classics",
+        "Cultural, France",
+        "Literature",
+        "French Literature"
+      ],
+      "description": "<p>The novel (original French title -- L'Île des Pingouins) is a satire on human nature. The first publication was in 1908. These penguins are mistaken for humans by the 97-year-old priest, Father Mael, because of his bad eyesight. He baptizes them, and once baptized, they have no choice but to become human. They take on human traits (build civilizations, go to war, etc.). The book is very funny and powerful. (Summary by Michael)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/1930",
+      "language": "English",
+      "copyright_year": "1908",
+      "num_sections": "62",
+      "url_rss": "https://librivox.org/rss/54",
+      "url_zip_file": "http://www.archive.org/download/penguin_island_ms_librivox/penguin_island_ms_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Penguin_Island_(novel)",
+      "url_librivox": "https://librivox.org/penguin-island-by-anatole-france/",
+      "url_other": null,
+      "totaltime": "9:04:31",
+      "totaltimesecs": 32671,
+      "authors": [
+        {
+          "id": "890",
+          "first_name": "Anatole",
+          "last_name": "France",
+          "dob": "1844",
+          "dod": "1924"
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "title": "Adventures of Huckleberry Finn",
+      "img_url": "https://ia800207.us.archive.org/34/items/huck_finn_librivox/Huck_Finn.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Historical Fiction",
+        "Young Adult",
+        "Literature",
+        "Adventure",
+        "Academic, School",
+        "Novels",
+        "Academic, Read For School",
+        "Literature, America"
+      ],
+      "description": "<p><em>Adventures of Huckleberry Finn</em> (1884) by Mark Twain is one of the truly great American novels, beloved by children, adults, and literary critics alike.  The book tells the story of “Huck” Finn (first introduced as Tom Sawyer’s sidekick in <em>The Adventures of Tom Sawyer</em>), his friend Jim, and their journey down the Mississippi River on a raft.  Both are on the run, Huck from his drunk and abusive father, and Jim as a runaway slave.</p>\n<p>As Huck and Jim drift down the river, they meet many colorful characters and have many great adventures.  The true heart of the story, however, is the friendship between Huck and Jim.  A constant theme throughout the book is Huck’s internal struggle between what he has been taught, that helping a runaway slave is a sin, and what he truly believes, that Jim is a good man and it couldn’t possibly be wrong to help him.</p>\n<p><em>Adventures of Huckleberry Finn</em> was unique at the time of its publication (1884) because it is narrated by Huck himself and is written in the numerous dialects common in the area and time in which the book is set.  Although the book was originally intended as a sequel to the children’s book <em>The Adventures of Tom Sawyer</em>, as Twain wrote <em>Adventures of Huckleberry Finn</em> it progressed into a more serious work.  Twain’s views on slavery and other social issues of the time become clear through the words, thoughts, and actions of Huck Finn.  The book has always been the subject of great controversy, and according to <a href=\"http://www.ala.org/bbooks/100-most-frequently-challenged-books-1990–1999\" target=\"_blank\">The American Library Association</a> it was fifth on the list of most frequently challenged books in the 1990s.<br />(Summary by Annie Coleman)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/76",
+      "language": "English",
+      "copyright_year": "1884",
+      "num_sections": "47",
+      "url_rss": "https://librivox.org/rss/59",
+      "url_zip_file": "http://www.archive.org/download/huck_finn_librivox/huck_finn_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn",
+      "url_librivox": "https://librivox.org/the-adventures-of-huckleberry-finn-by-mark-twain/",
+      "url_other": null,
+      "totaltime": "10:42:07",
+      "totaltimesecs": 38527,
+      "authors": [
+        {
+          "id": "9",
+          "first_name": "Mark",
+          "last_name": "Twain",
+          "dob": "1835",
+          "dod": "1910"
+        }
+      ]
+    },
+    {
+      "id": "67",
+      "title": "Divine Comedy",
+      "img_url": "https://ia600201.us.archive.org/3/items/divine_comedy_librivox/The_Divine_Comedy_1005.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Classics",
+        "Poetry",
+        "Fiction",
+        "Literature"
+      ],
+      "description": "<p>The Divine Comedy (Italian: Commedia, later christened \"Divina\" by Giovanni Boccaccio), written by Dante Alighieri between 1308 and his death in 1321, is widely considered the central epic poem of Italian literature, the last great work of literature of the Middle Ages and the first great work of the Renaissance. A culmination of the medieval world-view of the afterlife, it establishes the Tuscan dialect in which it is written as the Italian standard, and is seen as one of the greatest works of world literature. - The Divine Comedy is composed of three canticas (or \"cantiche\") — Inferno (Hell), Purgatorio (Purgatory), and Paradiso (Paradise) — composed each of 33 cantos (or \"canti\"). The very first canto serves as an introduction to the poem and is generally not considered to be part of the first cantica, bringing the total number of cantos to 100. - The poet tells in the first person his travel through the three realms of the dead, lasting during the Easter Triduum in the spring of 1300. (Summary from Wikipedia)</p>",
+      "url_text_source": "http://www.gutenberg.org/etext/1004",
+      "language": "English",
+      "copyright_year": "1321",
+      "num_sections": "19",
+      "url_rss": "https://librivox.org/rss/67",
+      "url_zip_file": "http://www.archive.org/download/divine_comedy_librivox/divine_comedy_librivox_64kb_mp3.zip",
+      "url_project": "http://en.wikipedia.org/wiki/Divine_Comedy",
+      "url_librivox": "https://librivox.org/the-divine-comedy-by-dante-alighieri/",
+      "url_other": null,
+      "totaltime": "12:23:25",
+      "totaltimesecs": 44605,
+      "authors": [
+        {
+          "id": "1189",
+          "first_name": "Dante",
+          "last_name": "Alighieri",
+          "dob": "1265",
+          "dod": "1321"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "title": "Mother Goose in Prose",
+      "img_url": "https://ia802608.us.archive.org/7/items/mother_goose_prose_librivox/Mother_Goose_Prose_1107.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Fiction",
+        "Classics",
+        "Fantasy",
+        "Childrens",
+        "Short Stories"
+      ],
+      "description": "Whether Mother Goose was a real person or a myth, the songs that are attributed to her name are what we remember from our childhood. Some of these nursery rhymes are complete tales in themselves.  There are others which are mere suggestions, leaving the imagination to weave in the details of the story. Many of the rhymes’ origins even at the time of this books writing, could be traced back decades or centuries. L Frank Baum in 1897, while living in Chicago, collected the rhymes and created short stories around them which add context and understanding for children who are drawn to the familiar melodies. (Summary by Westwinds12)<p>",
+      "url_text_source": "http://www.gutenberg.org/etext/5312",
+      "language": "English",
+      "copyright_year": "1897",
+      "num_sections": "23",
+      "url_rss": "https://librivox.org/rss/74",
+      "url_zip_file": "http://www.archive.org/download/mother_goose_prose_librivox/mother_goose_prose_librivox_64kb_mp3.zip",
+      "url_project": "https://en.wikipedia.org/wiki/Mother_Goose_in_Prose",
+      "url_librivox": "https://librivox.org/mother-goose-in-prose-by-l-frank-baum/",
+      "url_other": null,
+      "totaltime": "4:46:24",
+      "totaltimesecs": 17184,
+      "authors": [
+        {
+          "id": "406",
+          "first_name": "L. Frank",
+          "last_name": "Baum",
+          "dob": "1856",
+          "dod": "1919"
+        }
+      ]
+    },
+    {
+      "id": "78",
+      "title": "Foolish Dictionary",
+      "img_url": "https://ia800908.us.archive.org/11/items/foolish_dictionary_librivox/Foolish_Dictionary_1107.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Humor"
+      ],
+      "description": "\"The Foolish Dictionary\" was written by \"Gideon Wurdz\" (the pen name for Charles Wayland Towne) and was published in 1904. According to the beginning of the book, it is \"An exhausting work of reference to un-certain English words, their origin, meaning, legitimate and illegitimate use...\" \n\nThis a a short but amusing dictionary which \"redefines\" words in some interesting ways. Funny and sometimes bizarre observations are sprinkled throughout. In keeping with LibriVox policy to read, rather than attempt to rewrite, books - even those with offensive content - nothing has been omitted. While many of the definitions may just seem confusing or \"corny\" to modern readers, there are a couple that also might be considered \"objectionable,\" particularly in section 10, which contains offensive content of a racial nature. \n\nSummary by Maddie<p>\n",
+      "url_text_source": "http://www.gutenberg.org/etext/1989",
+      "language": "English",
+      "copyright_year": "1904",
+      "num_sections": "18",
+      "url_rss": "https://librivox.org/rss/78",
+      "url_zip_file": "http://www.archive.org/download/foolish_dictionary_librivox/foolish_dictionary_librivox_64kb_mp3.zip",
+      "url_project": "",
+      "url_librivox": "https://librivox.org/the-foolish-dictionary-by-gideon-wurdz/",
+      "url_other": null,
+      "totaltime": "1:45:27",
+      "totaltimesecs": 6327,
+      "authors": [
+        {
+          "id": "4101",
+          "first_name": "Charles Wayland",
+          "last_name": "Towne",
+          "dob": "1875",
+          "dod": "1965"
+        }
+      ]
+    },
+    {
+      "id": "79",
+      "title": "Ranald Bannerman's Boyhood",
+      "img_url": "https://ia800501.us.archive.org/15/items/LibrivoxCdCoverArt10/Ranald_Bannermans_Boyhood_1108.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Fiction",
+        "Christian",
+        "Historical Fiction",
+        "Young Adult"
+      ],
+      "description": "George MacDonald is mainly known for his fantasy works and fairy tales such as At the Back of the North Wind and the Princess and the Goblin. However, during his life he was more famous for many more realistic novels. . . among them the somewhat autobiographical Ranald Bannerman's Boyhood.\n<p>This story of a young motherless boy growing up with his brothers in a Scottish manse is full of delightful characters. There is Kirsty, an enchanting Highland storyteller, Turkey, the intrepid cowherd, the evil Kelpie, and the lovely Elsie Duff. Throughout the twists and turns of his escapades and adventures Ranald learns from his father the important lessons of courage and integrity.</p><p>When Ranald Bannerman's Boyhood came out in 1871 the New York Independent praised it as \"full of sweetness, full of boy-life and true goodness\". Perhaps, but it is also a good story, from the master of storytellers. (Summary by Bookworm)",
+      "url_text_source": "http://www.gutenberg.org/etext/9301",
+      "language": "English",
+      "copyright_year": "1871",
+      "num_sections": "36",
+      "url_rss": "https://librivox.org/rss/79",
+      "url_zip_file": "http://www.archive.org/download/ranald_bannermans_boyhood_librivox/ranald_bannermans_boyhood_librivox_64kb_mp3.zip",
+      "url_project": "",
+      "url_librivox": "https://librivox.org/ranald-bannermans-boyhood-by-george-macdonald/",
+      "url_other": null,
+      "totaltime": "7:04:48",
+      "totaltimesecs": 25488,
+      "authors": [
+        {
+          "id": "631",
+          "first_name": "George",
+          "last_name": "MacDonald",
+          "dob": "1824",
+          "dod": "1905"
+        }
+      ]
+    },
+    {
+      "id": "83",
+      "title": "Vindication of the Rights of Woman",
+      "img_url": "https://ia800501.us.archive.org/6/items/LibrivoxCdCoverArt9/Vindication_Rights_Woman_1107.jpg",
+      "img_width": 300,
+      "img_height": 300,
+      "genres": [
+        "Feminism",
+        "Nonfiction",
+        "Classics",
+        "Philosophy",
+        "History",
+        "Politics"
+      ],
+      "description": "<p>Wollstonecraft (1759-1797) is best known for A Vindication of the Rights of Woman in which she argued that women are not naturally inferior to men, but only appeared to be because they lacked education. She suggested that both men and women should be treated as rational beings and imagined a social order founded on reason. - Today, Wollstonecraft is considered a foundational thinker in feminist philosophy. Her early advocacy of women's equality and her attacks on conventional femininity and the degradation of women presaged the later emergence of the feminist political movement. Feminist scholars and activists have cited both her philosophical ideas and personal struggles as important influences in their work. <br><br>\n<em>This is one of the 12 Books That Changed the World by Melvyn Bragg.</em> (Summary from Wikipedia and Alex Foster)</p>",
+      "url_text_source": "http://www.gutenberg.org/ebooks/3420",
+      "language": "English",
+      "copyright_year": "1792",
+      "num_sections": "21",
+      "url_rss": "https://librivox.org/rss/83",
+      "url_zip_file": "http://www.archive.org/download/vindication_woman_librivox/vindication_woman_librivox_64kb_mp3.zip",
+      "url_project": "https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman",
+      "url_librivox": "https://librivox.org/a-vindication-of-the-rights-of-woman-by-mary-wollstonecraft/",
+      "url_other": null,
+      "totaltime": "9:46:16",
+      "totaltimesecs": 35176,
+      "authors": [
+        {
+          "id": "1349",
+          "first_name": "Mary",
+          "last_name": "Wollstonecraft",
+          "dob": "1759",
+          "dod": "1797"
+        }
+      ]
+    }
+  ]
+}

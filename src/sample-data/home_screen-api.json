@@ -3,6 +3,15 @@
     {
       "id": "1",
       "label": "Label 1",
+      "genres": [
+        "Classics",
+        "Fiction",
+        "Historical Fiction",
+        "Adventure",
+        "Literature",
+        "Cultural, France",
+        "Historical"
+      ],
       "list": [
         {
           "id": "47",
@@ -44,6 +53,14 @@
     {
       "id": "2",
       "label": "Label 2",
+      "genres": [
+        "Literature",
+        "Cultural, France",
+        "Historical",
+        "Classic Literature",
+        "Novels",
+        "Romance"
+      ],
       "list": [
         {
           "id": "56",
@@ -85,6 +102,20 @@
     {
       "id": "3",
       "label": "Label 3",
+      "genres": [
+        "Historical",
+        "Classic Literature",
+        "Novels",
+        "Romance",
+        "French Literature",
+        "Literature, 19th Century",
+        "Childrens",
+        "Young Adult",
+        "Academic, School",
+        "Academic, Read For School",
+        "Literature, American",
+        "Cultural, Africa"
+      ],
       "list": [
         {
           "id": "67",
@@ -126,6 +157,20 @@
     {
       "id": "4",
       "label": "Label 4",
+      "genres": [
+        "Young Adult",
+        "Academic, School",
+        "Academic, Read For School",
+        "Literature, American",
+        "Cultural, Africa",
+        "Young Adult, High School",
+        "Poetry",
+        "Fantasy",
+        "Fantasy, Mythogology",
+        "Travel",
+        "Nonfiction",
+        "History"
+      ],
       "list": [
         {
           "id": "76",
@@ -167,6 +212,19 @@
     {
       "id": "5",
       "label": "Label 5",
+      "genres": [
+        "Fantasy",
+        "Fantasy, Mythogology",
+        "Travel",
+        "Nonfiction",
+        "History",
+        "Biography Memoir",
+        "Autobiography, Memoir",
+        "Short Stories",
+        "Horror",
+        "Humor",
+        "Religion"
+      ],
       "list": [
         {
           "id": "75",
